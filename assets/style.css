@@ -6,11 +6,11 @@ body {
   
   .container {
     display: flex;
-    margin: 80px;
+    margin: 10%;
   }
   
   .button-container {
-    padding: 30px;
+    padding: 80px;
     padding-left: 60px;
   }
   
